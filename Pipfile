@@ -11,6 +11,7 @@ lxml = "*"
 seaborn = "*"
 statsmodels = "*"
 scipy = "*"
+pyarrow = "*"
 
 [dev-packages]
 ipykernel = "*"
