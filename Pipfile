@@ -13,6 +13,11 @@ statsmodels = "*"
 scipy = "*"
 pyarrow = "*"
 openpyxl = "*"
+xlrd = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
+sqlalchemy = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"
