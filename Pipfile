@@ -18,6 +18,7 @@ beautifulsoup4 = "*"
 html5lib = "*"
 sqlalchemy = "*"
 requests = "*"
+tables = "*"
 
 [dev-packages]
 ipykernel = "*"
